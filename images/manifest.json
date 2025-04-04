@@ -333,6 +333,87 @@
             ]
         },
         {
+            "id": "https://23haz23.github.io/Giannini-Elgun/images/trevi/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "trevi"
+                ]
+            },
+            "height": 5312,
+            "width": 7961,
+            "items": [
+                {
+                    "id": "https://23haz23.github.io/Giannini-Elgun/images/trevi/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://23haz23.github.io/Giannini-Elgun/images/trevi/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://23haz23.github.io/Giannini-Elgun/images/trevi/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 249,
+                                                "height": 166
+                                            },
+                                            {
+                                                "width": 498,
+                                                "height": 332
+                                            },
+                                            {
+                                                "width": 996,
+                                                "height": 664
+                                            },
+                                            {
+                                                "width": 1991,
+                                                "height": 1328
+                                            },
+                                            {
+                                                "width": 3981,
+                                                "height": 2656
+                                            },
+                                            {
+                                                "width": 7961,
+                                                "height": 5312
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 7961,
+                                        "@id": "https://23haz23.github.io/Giannini-Elgun/images/trevi",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5312,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://23haz23.github.io/Giannini-Elgun/images/trevi/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://23haz23.github.io/Giannini-Elgun/images/monalisa/canvas/",
             "type": "Canvas",
             "label": {
@@ -408,6 +489,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://23haz23.github.io/Giannini-Elgun/images/monalisa/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://23haz23.github.io/Giannini-Elgun/images/london/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "london"
+                ]
+            },
+            "height": 6000,
+            "width": 4000,
+            "items": [
+                {
+                    "id": "https://23haz23.github.io/Giannini-Elgun/images/london/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://23haz23.github.io/Giannini-Elgun/images/london/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://23haz23.github.io/Giannini-Elgun/images/london/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 125,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 1500
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 3000
+                                            },
+                                            {
+                                                "width": 4000,
+                                                "height": 6000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4000,
+                                        "@id": "https://23haz23.github.io/Giannini-Elgun/images/london",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://23haz23.github.io/Giannini-Elgun/images/london/canvas/"
                         }
                     ]
                 }

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 249,
+    "height" : 166
+  }, {
+    "width" : 498,
+    "height" : 332
+  }, {
+    "width" : 996,
+    "height" : 664
+  }, {
+    "width" : 1991,
+    "height" : 1328
+  }, {
+    "width" : 3981,
+    "height" : 2656
+  }, {
+    "width" : 7961,
+    "height" : 5312
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7961,
+  "@id" : "https://23haz23.github.io/Giannini-Elgun/images/trevi",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5312
+}
